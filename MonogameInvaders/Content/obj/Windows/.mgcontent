@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/afatc/OneDrive/LICENCE/Bac4/Game Computing/SpaceInvaders_start/SpaceInvaders_start/MonogameInvaders/Content/scoreFont.spritefont</File>
+    <File>C:/Users/afatc/OneDrive/LICENCE/Bac4/Game Computing/SpaceInvaders_start/SpaceInvaders_start/MonogameInvaders/Content/spr_background.png</File>
+    <File>C:/Users/afatc/OneDrive/LICENCE/Bac4/Game Computing/SpaceInvaders_start/SpaceInvaders_start/MonogameInvaders/Content/spr_blue_invader.png</File>
+    <File>C:/Users/afatc/OneDrive/LICENCE/Bac4/Game Computing/SpaceInvaders_start/SpaceInvaders_start/MonogameInvaders/Content/spr_bullet.png</File>
+    <File>C:/Users/afatc/OneDrive/LICENCE/Bac4/Game Computing/SpaceInvaders_start/SpaceInvaders_start/MonogameInvaders/Content/spr_enemy_ship.png</File>
+    <File>C:/Users/afatc/OneDrive/LICENCE/Bac4/Game Computing/SpaceInvaders_start/SpaceInvaders_start/MonogameInvaders/Content/spr_green_invader.png</File>
+    <File>C:/Users/afatc/OneDrive/LICENCE/Bac4/Game Computing/SpaceInvaders_start/SpaceInvaders_start/MonogameInvaders/Content/spr_red_invader.png</File>
+    <File>C:/Users/afatc/OneDrive/LICENCE/Bac4/Game Computing/SpaceInvaders_start/SpaceInvaders_start/MonogameInvaders/Content/spr_scanlines.png</File>
+    <File>C:/Users/afatc/OneDrive/LICENCE/Bac4/Game Computing/SpaceInvaders_start/SpaceInvaders_start/MonogameInvaders/Content/spr_shield.png</File>
+    <File>C:/Users/afatc/OneDrive/LICENCE/Bac4/Game Computing/SpaceInvaders_start/SpaceInvaders_start/MonogameInvaders/Content/spr_ship.png</File>
+    <File>C:/Users/afatc/OneDrive/LICENCE/Bac4/Game Computing/SpaceInvaders_start/SpaceInvaders_start/MonogameInvaders/Content/spr_yellow_invader.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,95 @@
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\Content\spr_background.xnb
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\Content\spr_blue_invader.xnb
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\Content\spr_bullet.xnb
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\Content\spr_enemy_ship.xnb
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\Content\spr_green_invader.xnb
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\Content\spr_red_invader.xnb
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\Content\spr_scanlines.xnb
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\Content\spr_shield.xnb
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\Content\spr_ship.xnb
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\Content\spr_yellow_invader.xnb
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\SpaceInvaders.exe
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\SpaceInvaders.deps.json
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\SpaceInvaders.runtimeconfig.json
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\SpaceInvaders.dll
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\SpaceInvaders.pdb
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\obj\Debug\net6.0-windows\SpaceInvaders.csproj.AssemblyReference.cache
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\obj\Debug\net6.0-windows\SpaceInvaders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\obj\Debug\net6.0-windows\SpaceInvaders.AssemblyInfoInputs.cache
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\obj\Debug\net6.0-windows\SpaceInvaders.AssemblyInfo.cs
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\obj\Debug\net6.0-windows\SpaceInvaders.csproj.CoreCompileInputs.cache
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\obj\Debug\net6.0-windows\SpaceInvaders.csproj.CopyComplete
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\obj\Debug\net6.0-windows\SpaceInvaders.dll
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\obj\Debug\net6.0-windows\refint\SpaceInvaders.dll
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\obj\Debug\net6.0-windows\SpaceInvaders.pdb
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\obj\Debug\net6.0-windows\SpaceInvaders.genruntimeconfig.cache
+C:\Users\Gerke\source\repos\SpaceInvaders_start\MonogameInvaders\obj\Debug\net6.0-windows\ref\SpaceInvaders.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\Content\spr_background.xnb
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\Content\spr_blue_invader.xnb
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\Content\spr_bullet.xnb
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\Content\spr_enemy_ship.xnb
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\Content\spr_green_invader.xnb
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\Content\spr_red_invader.xnb
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\Content\spr_scanlines.xnb
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\Content\spr_shield.xnb
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\Content\spr_ship.xnb
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\Content\spr_yellow_invader.xnb
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\SpaceInvaders.exe
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\SpaceInvaders.deps.json
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\SpaceInvaders.runtimeconfig.json
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\SpaceInvaders.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\SpaceInvaders.pdb
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\obj\Debug\net6.0-windows\SpaceInvaders.csproj.AssemblyReference.cache
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\obj\Debug\net6.0-windows\SpaceInvaders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\obj\Debug\net6.0-windows\SpaceInvaders.AssemblyInfoInputs.cache
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\obj\Debug\net6.0-windows\SpaceInvaders.AssemblyInfo.cs
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\obj\Debug\net6.0-windows\SpaceInvaders.csproj.CoreCompileInputs.cache
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\obj\Debug\net6.0-windows\SpaceInvaders.csproj.CopyComplete
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\obj\Debug\net6.0-windows\SpaceInvaders.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\obj\Debug\net6.0-windows\refint\SpaceInvaders.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\obj\Debug\net6.0-windows\SpaceInvaders.pdb
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\obj\Debug\net6.0-windows\SpaceInvaders.genruntimeconfig.cache
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\obj\Debug\net6.0-windows\ref\SpaceInvaders.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\SpaceInvaders_start\SpaceInvaders_start\MonogameInvaders\bin\Debug\net6.0-windows\Content\scoreFont.xnb
